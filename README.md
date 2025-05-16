@@ -61,6 +61,7 @@ REDIS_URL=redis://default:password@host:port
 
 # PostgreSQL + Prisma
 DATABASE_URL="postgresql://username:password@localhost:5432/chat-bot"
+---
 
 ## Clone and Install
 git clone https://github.com/darshil481/chat-bot-backend.git
